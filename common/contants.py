@@ -18,7 +18,7 @@ test_file = os.path.join(base_dir, 'conf', 'test.conf')
 
 staging_file = os.path.join(base_dir, 'conf', 'staging.conf')
 
-log_file = os.path.join(base_dir, 'test_report', 'report.txt')
+log_file = os.path.join(base_dir, 'test_report', 'report.log')
 
 discover_file = os.path.join(base_dir, 'test_case')
 
