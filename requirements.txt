@@ -9,7 +9,7 @@ et-xmlfile==1.0.1
 idna==2.8
 jdcal==1.4
 more-itertools==7.0.0
-numpy==1.15.4
+numpy==1.22.0
 openpyxl==2.5.14
 pandas==0.20.3
 pathlib2==2.3.3
